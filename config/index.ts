@@ -154,10 +154,10 @@ export const siteConfig: Metadata = {
   ] as Array<string>,
   authors: {
     name: "Sanidhya Kumar Verma",
-    url: "https://github.com/sanidhyy",
+    url: "https://github.com/CarlosE-23",
   },
 } as const;
 
 export const links = {
-  sourceCode: "https://github.com/sanidhyy/imaginify",
+  sourceCode: "https://github.com/CarlosE-23/imaginify",
 } as const;
